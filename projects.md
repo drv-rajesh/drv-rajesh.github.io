@@ -27,7 +27,7 @@
 <h2> Backend Stack </h2>
 <table style="width:100%">
   <tr>
-    <td> <a href="https://github.com/drv-rajesh/urlshortener" target=_blank> URL Shortener </td>
+    <td> <a href="https://github.com/drv-rajesh/urlshortener" target=_blank> URL Shortener </a> </td>
     <td>
       A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
       <ul>
