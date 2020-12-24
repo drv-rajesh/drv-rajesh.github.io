@@ -1,7 +1,7 @@
 <h2> Frontend Stack </h2>
 <table style="width:100%">
   <tr>
-    <td> Portfolio Website </td>
+    <td> <a href="https://github.com/drv-rajesh/drv-rajesh.github.io" target=_blank> Portfolio Website </a> </td>
     <td>
       Created using the GH Pages Environment and a modern HTML stack, excluding JS.
       <ul>
@@ -9,10 +9,9 @@
         <li> CSS </li>
       </ul>
     </td>
-    <td> View on <a href="https://github.com/drv-rajesh/drv-rajesh.github.io/"> GitHub </a> </td>
   </tr>
   <tr>
-    <td> AIM App Website </td>
+    <td> <a href="http://aim-app.glitch.me" target=_blank> AIM App Website </a> </td>
     <td>
       Created for an accompanying app (demo for a hackathon-type thing).
       <ul>
@@ -20,7 +19,6 @@
         <li> CSS </li>
       </ul>
     </td>
-    <td> View on <a href="https://github.com/drv-rajesh/drv-rajesh.github.io/"> GitHub </a> </td>
   </tr>
 </table>
 
@@ -29,7 +27,7 @@
 <h2> Backend Stack </h2>
 <table style="width:100%">
   <tr>
-    <td> URL Shortener </td>
+    <td> <a href="https://github.com/drv-rajesh/urlshortener" target=_blank> URL Shortener </td>
     <td>
       A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
       <ul>
