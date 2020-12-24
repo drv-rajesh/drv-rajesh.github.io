@@ -22,6 +22,7 @@
       </ul>
     </td>
   </tr>
+</table>
 
 <h2> HTML Stack </h2>
 <table style="width:100%">
