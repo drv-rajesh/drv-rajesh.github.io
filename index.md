@@ -3,4 +3,4 @@
 
 <hr>
 
-<button type="button" href="/projects"> Projects </button>
+<a href="/projects" class="button"> Projects </a>
