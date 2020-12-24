@@ -27,8 +27,4 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>Denbot</td>
-    <td>A Discord bot in development made for multipurpose use and in the future, for IOT functionality.</td>
-  </tr>
 </table>
