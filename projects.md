@@ -4,7 +4,6 @@
     <td> URL Shortener </td>
     <td>
       A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
-      <hr>
       <ul>
         <li> Python </li>
       </ul>
@@ -14,7 +13,6 @@
     <td> Denbot </td>
     <td>
       A Discord bot in development made for multipurpose use and in the future, for IOT functionality.
-      <hr>
       <ul>
         <li> Python </li>
         <li> Flask </li>
@@ -32,7 +30,6 @@
     <td> Portfolio Website </td>
     <td>
       Created using the GH Pages Environment and a modern HTML stack, excluding JS.
-      <hr>
       <ul>
         <li> HTML </li>
         <li> CSS </li>
@@ -43,7 +40,6 @@
     <td> AIM App Website </td>
     <td>
       Created for an accompanying app (demo for a hackathon-type thing).
-      <hr>
       <ul>
         <li> HTML </li>
         <li> CSS </li>
