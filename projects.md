@@ -1,6 +1,7 @@
+<h2> Python Stack </h2>
 <table style="width:100%">
   <tr>
-    <td> <h3> URL Shortener </h3> </td>
+    <td> URL Shortener </td>
     <td>
       A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
       <hr>
@@ -10,7 +11,7 @@
     </td>
   </tr>
   <tr>
-    <td> <h3> Denbot </h3> </td>
+    <td> Denbot </td>
     <td>
       A Discord bot in development made for multipurpose use and in the future, for IOT functionality.
       <hr>
@@ -21,6 +22,9 @@
       </ul>
     </td>
   </tr>
+
+<h2> HTML Stack </h2>
+<table style="width:100%">
   <tr>
     <td> <h3> Portfolio Website </h3> </td>
     <td>
