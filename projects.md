@@ -4,7 +4,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td> <h2> URL Shortener </h2> </td>
+    <td> <h3> URL Shortener </h3> </td>
     <td>
       A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
       <hr>
@@ -14,7 +14,7 @@
     </td>
   </tr>
   <tr>
-    <td> <h2> Denbot </h2> </td>
+    <td> <h3> Denbot </h3> </td>
     <td>
       A Discord bot in development made for multipurpose use and in the future, for IOT functionality.
       <hr>
