@@ -4,12 +4,9 @@
     <td>
       A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
       <hr>
-      <button type="button" class="collapsible">Tech Stack</button>
-      <div class="ccontent">
-        <ul>
-          <li> Python </li>
-        </ul>
-      </div>
+      <ul>
+        <li> Python </li>
+      </ul>
     </td>
   </tr>
   <tr>
