@@ -26,7 +26,7 @@
 <h2> HTML Stack </h2>
 <table style="width:100%">
   <tr>
-    <td> <h3> Portfolio Website </h3> </td>
+    <td> Portfolio Website </td>
     <td>
       Created using the GH Pages Environment and a modern HTML stack, excluding JS.
       <hr>
@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <td> <h3> AIM App Website </h3> </td>
+    <td> AIM App Website </td>
     <td>
       Created for an accompanying app (demo for a hackathon-type thing).
       <hr>
