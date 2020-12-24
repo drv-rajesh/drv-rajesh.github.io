@@ -18,3 +18,20 @@ nav {
     }
   }
 }
+
+.collapsible {
+  background-color: #000;
+  color: #444;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 12px;
+}
+
+.ccontent {
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
