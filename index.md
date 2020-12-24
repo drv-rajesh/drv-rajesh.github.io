@@ -1,4 +1,6 @@
-<a href="/projects" class="button"> Projects </a>
+<p align="center">
+  <a href="/projects" class="button"> Projects </a>
+</p>
 
 <hr>
 
