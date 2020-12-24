@@ -4,3 +4,7 @@
 
 <hr>
 
+<p align="center">
+  <b> Tech Stack </b>
+</p>
+
