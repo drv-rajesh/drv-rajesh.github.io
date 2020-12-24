@@ -21,4 +21,26 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td> <h3> Portfolio Website </h3> </td>
+    <td>
+      Created using the GH Pages Environment and a modern HTML stack, excluding JS.
+      <hr>
+      <ul>
+        <li> HTML </li>
+        <li> CSS </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td> <h3> AIM App Website </h3> </td>
+    <td>
+      Created for an accompanying app (demo for a hackathon-type thing).
+      <hr>
+      <ul>
+        <li> HTML </li>
+        <li> CSS </li>
+      </ul>
+    </td>
+  </tr>
 </table>
