@@ -2,16 +2,9 @@
   <tr>
     <th>Project</th>
     <th>Description</th>
-    <th>Tech Stack</th>
   </tr>
   <tr>
     <td>URL Shortener</td>
-    <td>A simple URL shortener using the Bitly API.</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>A URL shortener that uses the Bitly API to shorten URLs, and OOP to organize functions. Also contains a GUI for "spicing things up".</td>
   </tr>
 </table>
