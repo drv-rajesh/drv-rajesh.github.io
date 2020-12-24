@@ -13,5 +13,5 @@
   <img src="/assets/html_icon.png" width="25" height="25">
   <img src="/assets/css_icon.png" width="25" height="25">
   <img src="/assets/java_icon.png" width="25" height="25">
-  <img src="/assets/lua_icon.png" width="25" height="25">
+  <img src="/assets/lua_icon.svg" width="25" height="25">
 </p>
