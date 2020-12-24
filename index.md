@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center" style="font-size: 20px">
+<p align="center" style="font-size: 18px">
   <b> Tech Stack </b>
 </p>
 
