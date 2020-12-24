@@ -24,6 +24,8 @@
   </tr>
 </table>
 
+<hr>
+
 <h2> HTML Stack </h2>
 <table style="width:100%">
   <tr>
