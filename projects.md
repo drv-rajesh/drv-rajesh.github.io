@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td> Denbot </td>
+    <td> <a href="https://github.com/drv-rajesh/Denbot" target="_blank"> Denbot </a> </td>
     <td>
       A Discord bot in development made for multipurpose use and in the future, for IOT functionality.
       <ul>
