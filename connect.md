@@ -1,4 +1,6 @@
 <p align="center">
+  <a href="/email" target=_blank> Email </a>
+  <br>
   <a href="https://twitter.com/DhruvDev98" target=_blank> Twitter </a>
   <br>
   <a href="https://github.com/drv-rajesh" target=_blank> GitHub </a>
