@@ -4,23 +4,10 @@
 
 <hr>
 
-<p align="center" style="font-size: 18px">
-  <b> Tech Stack </b>
+<p align="center">
+  <img src="/assets/python_icon.png" width="25" height="25">
+  <img src="/assets/html_icon.png" width="25" height="25">
+  <img src="/assets/css_icon.png" width="25" height="25">
+  <img src="/assets/java_icon.png" width="25" height="25">
+  <img src="/assets/lua_icon.svg" width="25" height="25">
 </p>
-
-<table>
-  <tr>
-    <th> Frontend </th>
-    <th> Backend </th>
-  <tr>
-    <td>
-      <img src="/assets/python_icon.png" width="25" height="25">
-      <img src="/assets/java_icon.png" width="25" height="25">
-      <img src="/assets/lua_icon.svg" width="25" height="25">
-    </td>
-    <td>
-      <img src="/assets/html_icon.png" width="25" height="25">
-      <img src="/assets/css_icon.png" width="25" height="25">
-    </td>
-  </tr>
-</table>
