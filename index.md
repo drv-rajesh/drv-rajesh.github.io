@@ -8,7 +8,7 @@
   <b> Tech Stack </b>
 </p>
 
-<table class="center">
+<table>
   <tr>
     <th> Frontend </th>
     <th> Backend </th>
