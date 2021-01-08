@@ -8,6 +8,6 @@
 <table>
   <tr> 
     <td> Denbot - a versatile Discord bot with over 50 commands that specializes in IOT functionality and multipurpose use. </td>
-    <td> View this product </td>
+    <td> <button type="button"> View product page </button> </td>
   </tr>
 </table>
