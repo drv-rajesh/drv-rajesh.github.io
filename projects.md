@@ -9,6 +9,7 @@
         <li> Flask </li>
         <li> Dotenv </li>
       </ul>
+      <hr>
     </td>
   </tr>
   <tr>
@@ -18,6 +19,7 @@
       <ul>
         <li> Python </li>
       </ul>
+      <hr>
     </td>
   </tr>
   <tr>
@@ -27,6 +29,7 @@
       <ul>
         <li> Python </li>
       </ul>
+      <hr>
     </td>
   </tr>
 </table>
