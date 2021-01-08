@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2> HTML-CSS-JS </h2>
+<h2> HTML Stack </h2>
 <table style="width:100%">
   <tr>
     <td> <a href="https://github.com/drv-rajesh/drv-rajesh.github.io" target=_blank> Portfolio Website </a> </td>
