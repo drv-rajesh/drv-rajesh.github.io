@@ -25,7 +25,7 @@
   <tr>
     <td> <a href="https://github.com/drv-rajesh/incursiongo" target=_blank> IncursionGO </a> </td>
     <td>
-      An alien-shooter created as part of the Codakid curriculum - uses Pygame and OOP.
+      An alien-shooter created using Pygame as part of the Codakid curriculum.
       <ul>
         <li> Python </li>
       </ul>
