@@ -29,7 +29,6 @@
       <ul>
         <li> Python </li>
       </ul>
-      <hr>
     </td>
   </tr>
 </table>
@@ -46,6 +45,7 @@
         <li> HTML </li>
         <li> CSS </li>
       </ul>
+      <hr>
     </td>
   </tr>
   <tr>
