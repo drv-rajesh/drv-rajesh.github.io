@@ -12,7 +12,13 @@ body {
   border: 1px solid #4276b6;
   
   #logo {
-    background: url(../assets/logo.png);
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url(/assets/logo.png);
   }
 }
 
