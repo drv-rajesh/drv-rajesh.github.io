@@ -1,1 +1,5 @@
-**The store is under development.**
+<p align="center"> 
+  <b> The store is under development. </b> 
+</p>
+
+<hr>
