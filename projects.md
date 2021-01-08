@@ -1,15 +1,6 @@
 <h2> Python </h2>
 <table style="width:100%">
   <tr>
-    <td> <a href="https://github.com/drv-rajesh/urlshortener" target=_blank> URL Shortener </a> </td>
-    <td>
-      A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
-      <ul>
-        <li> Python </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
     <td> <a href="https://github.com/drv-rajesh/Denbot" target="_blank"> Denbot </a> </td>
     <td>
       A Discord bot in development made for multipurpose use and in the future, for IOT functionality.
@@ -17,6 +8,15 @@
         <li> Python </li>
         <li> Flask </li>
         <li> Dotenv </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/drv-rajesh/urlshortener" target=_blank> URL Shortener </a> </td>
+    <td>
+      A URL shortener that invokes the Bitly API to shorten URLs. The entire project was coded in Python.
+      <ul>
+        <li> Python </li>
       </ul>
     </td>
   </tr>
