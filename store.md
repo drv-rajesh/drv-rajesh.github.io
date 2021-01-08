@@ -3,7 +3,11 @@
 </p>
 
 <hr>
+
 <h2> Products </h2>
-<ul> 
-  <li> Denbot - a versatile Discord bot with over 50 commands that specializes in IOT functionality and multipurpose use. </li>
-</ul>
+<table>
+  <tr> 
+    <td> Denbot - a versatile Discord bot with over 50 commands that specializes in IOT functionality and multipurpose use. </td>
+    <td> View this product </td>
+  </tr>
+</table>
