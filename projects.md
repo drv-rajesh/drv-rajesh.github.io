@@ -1,9 +1,16 @@
 <div content class="projects">
   <div content>
-    <h2> Denbot </h2>
+    <p> <b> Denbot </b> </p>
   </div>
   <div content>
-    <h2> Description </h2>
+    <p> 
+      A versatile Discord bot with over 50 commands that specializes in IOT functionality and multipurpose use. 
+    </p>
+    <ul>
+      <li> Python </li>
+      <li> Flask </li>
+      <li> Dotenv </li>
+     </ul>
   </div>
 </div>
 
