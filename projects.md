@@ -26,6 +26,8 @@
 
 <hr>
 
+<br>
+
 <h2> HTML Stack </h2>
 
 <hr>
