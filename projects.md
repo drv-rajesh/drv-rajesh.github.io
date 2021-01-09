@@ -4,7 +4,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:20px"> Denbot </p>
+    <p style="font-size:18px"> Denbot </p>
   </div>
   <div content>
     <p> 
@@ -15,7 +15,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:20px"> URL Shortener </p>
+    <p style="font-size:18px"> URL Shortener </p>
   </div>
   <div content>
     <p> 
@@ -34,7 +34,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:20px"> Portfolio Website </p>
+    <p style="font-size:18px"> Portfolio Website </p>
   </div>
   <div content>
     <p> 
@@ -45,7 +45,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:20px"> AIM App Website </p>
+    <p style="font-size:18px"> AIM App Website </p>
   </div>
   <div content>
     <p> 
