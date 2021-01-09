@@ -44,3 +44,12 @@ table, th, td {
   display:inline-block;
   text-align:center;
 }
+
+.projects[content] {
+  margin: 10px;
+  display: grid;
+  grid-gap: 0;
+  font-size: 18pt;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+}
