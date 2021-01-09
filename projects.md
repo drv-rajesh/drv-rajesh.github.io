@@ -14,8 +14,6 @@
   </div>
 </div>
 
-<img src="/assets/line.png">
-
 <div content class="projects">
   <div content>
     <p style="font-size:20px"> <b> URL Shortener </b> </p>
