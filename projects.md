@@ -5,7 +5,6 @@
 <div content class="projects">
   <div content>
     <p style="font-size:20px"> <b> Denbot </b> </p>
-    <img src="/assets/denbotlogo.png" style="width:60px;height:65px;">
   </div>
   <div content>
     <p> 
@@ -17,23 +16,10 @@
 <div content class="projects">
   <div content>
     <p style="font-size:20px"> <b> URL Shortener </b> </p>
-    <img src="/assets/urllogo.jpg" style="width:60px;height:24px;">
   </div>
   <div content>
     <p> 
       A URL shortener that invokes the Bitly API to shorten URLs.
-    </p>
-  </div>
-</div>
-
-<div content class="projects">
-  <div content>
-    <p style="font-size:20px"> <b> IncursionGO </b> </p>
-    <img src="/assets/Player_02.png" style="width:40px;height:45px;">
-  </div>
-  <div content>
-    <p> 
-      An alien shooter created using Pygame as part of the Codakid curriculum.
     </p>
   </div>
 </div>
