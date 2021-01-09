@@ -1,6 +1,8 @@
+<h2> Python </h2>
+
 <div content class="projects">
   <div content>
-    <p style="font-size:25px"> <b> Denbot </b> </p>
+    <p style="font-size:20px"> <b> Denbot </b> </p>
     <img src="/assets/denbotlogo.png" style="width:60px;height:65px;">
   </div>
   <div content>
@@ -19,7 +21,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:25px"> <b> URL Shortener </b> </p>
+    <p style="font-size:20px"> <b> URL Shortener </b> </p>
     <img src="" style="width:60px;height:65px;">
   </div>
   <div content>
@@ -32,27 +34,22 @@
   </div>
 </div>
 
-<h2> Python </h2>
-<table style="width:100%">
-  <tr>
-    <td> <a href="https://github.com/drv-rajesh/urlshortener" target=_blank> URL Shortener </a> </td>
-    <td>
-      A URL shortener that invokes the Bitly API to shorten URLs.
-      <ul>
-        <li> Python </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td> <a href="https://github.com/drv-rajesh/incursiongo" target=_blank> IncursionGO </a> </td>
-    <td>
-      An alien-shooter created using Pygame as part of the Codakid curriculum.
-      <ul>
-        <li> Python </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<hr>
+
+<div content class="projects">
+  <div content>
+    <p style="font-size:20px"> <b> IncursionGO </b> </p>
+    <img src="" style="width:60px;height:65px;">
+  </div>
+  <div content>
+    <p> 
+      An alien shooter created using Pygame as part of the Codakid curriculum.
+    </p>
+    <ul>
+      <li> Python </li>
+    </ul>
+  </div>
+</div>
 
 <hr>
 
