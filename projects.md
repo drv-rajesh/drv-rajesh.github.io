@@ -1,5 +1,7 @@
 <h2> Python </h2>
 
+<hr>
+
 <div content class="projects">
   <div content>
     <p style="font-size:20px"> <b> Denbot </b> </p>
@@ -12,8 +14,6 @@
   </div>
 </div>
 
-<hr>
-
 <div content class="projects">
   <div content>
     <p style="font-size:20px"> <b> URL Shortener </b> </p>
@@ -25,8 +25,6 @@
     </p>
   </div>
 </div>
-
-<hr>
 
 <div content class="projects">
   <div content>
