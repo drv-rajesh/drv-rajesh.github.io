@@ -1,6 +1,7 @@
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> <b> Denbot </b> </p>
+    <p style="font-size:36px"> <b> Denbot </b> </p>
+    <img src="/assets/denbotlogo.png" style="width:60px;height:60px;">
   </div>
   <div content>
     <p> 
