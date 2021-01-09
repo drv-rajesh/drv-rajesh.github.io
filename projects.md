@@ -29,7 +29,7 @@
 <div content class="projects">
   <div content>
     <p style="font-size:20px"> <b> IncursionGO </b> </p>
-    <img src="" style="width:60px;height:65px;">
+    <img src="/assets/Player_02.png" style="width:60px;height:65px;">
   </div>
   <div content>
     <p> 
