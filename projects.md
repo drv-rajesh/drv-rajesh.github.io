@@ -27,25 +27,27 @@
 <hr>
 
 <h2> HTML Stack </h2>
-<table style="width:100%">
-  <tr>
-    <td> <a href="https://github.com/drv-rajesh/drv-rajesh.github.io" target=_blank> Portfolio Website </a> </td>
-    <td>
+
+<hr>
+
+<div content class="projects">
+  <div content>
+    <p style="font-size:20px"> <b> Portfolio Website </b> </p>
+  </div>
+  <div content>
+    <p> 
       Created using the GH Pages Environment and a modern HTML stack, excluding JS.
-      <ul>
-        <li> HTML </li>
-        <li> CSS </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td> <a href="http://aim-app.glitch.me" target=_blank> AIM App Website </a> </td>
-    <td>
+    </p>
+  </div>
+</div>
+
+<div content class="projects">
+  <div content>
+    <p style="font-size:20px"> <b> AIM App Website </b> </p>
+  </div>
+  <div content>
+    <p> 
       Created for an accompanying app (demo for a hackathon-type thing).
-      <ul>
-        <li> HTML </li>
-        <li> CSS </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+    </p>
+  </div>
+</div>
