@@ -9,11 +9,6 @@
     <p> 
       A versatile Discord bot with over 50 commands that specializes in IOT functionality and multipurpose use. 
     </p>
-    <ul>
-      <li> Python </li>
-      <li> Flask </li>
-      <li> Dotenv </li>
-     </ul>
   </div>
 </div>
 
@@ -28,9 +23,6 @@
     <p> 
       A URL shortener that invokes the Bitly API to shorten URLs.
     </p>
-    <ul>
-      <li> Python </li>
-    </ul>
   </div>
 </div>
 
@@ -45,9 +37,6 @@
     <p> 
       An alien shooter created using Pygame as part of the Codakid curriculum.
     </p>
-    <ul>
-      <li> Python </li>
-    </ul>
   </div>
 </div>
 
