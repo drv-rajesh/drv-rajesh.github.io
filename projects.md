@@ -17,7 +17,7 @@
 <div content class="projects">
   <div content>
     <p style="font-size:20px"> <b> URL Shortener </b> </p>
-    <img src="" style="width:60px;height:65px;">
+    <img src="/assets/urllogo.jpg" style="width:30px;height:12px;">
   </div>
   <div content>
     <p> 
