@@ -4,7 +4,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/Denbot"> Denbot </a> </p>
+    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/Denbot" target="_blank"> Denbot </a> </p>
   </div>
   <div content>
     <p> 
@@ -15,7 +15,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/urlshortener"> URL Shortener </a> </p>
+    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/urlshortener" target="_blank"> URL Shortener </a> </p>
   </div>
   <div content>
     <p> 
@@ -34,7 +34,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/drv-rajesh.github.io"> Portfolio Website </a> </p>
+    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/drv-rajesh.github.io" target="_blank"> Portfolio Website </a> </p>
   </div>
   <div content>
     <p> 
@@ -45,7 +45,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> <a href="https://aim-app.glitch.me/"> AIM App Website </a> </p>
+    <p style="font-size:18px"> <a href="https://aim-app.glitch.me/" target="_blank"> AIM App Website </a> </p>
   </div>
   <div content>
     <p> 
