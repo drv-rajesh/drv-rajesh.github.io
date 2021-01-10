@@ -5,8 +5,6 @@
 <div content class="projects">
   <div content>
     <p style="font-size:18px"> Denbot </p>
-    <img src="/assets/github.png" style="width:15px;height:15px;">
-    <img src="/assets/replit.png" style="width:15px;height:15px;">
   </div>
   <div content>
     <p> 
