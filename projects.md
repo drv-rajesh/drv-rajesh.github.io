@@ -15,7 +15,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> URL Shortener </p>
+    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/urlshortener"> URL Shortener </a> </p>
   </div>
   <div content>
     <p> 
