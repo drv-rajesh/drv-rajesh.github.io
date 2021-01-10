@@ -34,7 +34,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> Portfolio Website </p>
+    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/drv-rajesh.github.io"> Portfolio Website </a> </p>
   </div>
   <div content>
     <p> 
@@ -45,7 +45,7 @@
 
 <div content class="projects">
   <div content>
-    <p style="font-size:18px"> AIM App Website </p>
+    <p style="font-size:18px"> <a href="https://aim-app.glitch.me/"> AIM App Website </a> </p>
   </div>
   <div content>
     <p> 
