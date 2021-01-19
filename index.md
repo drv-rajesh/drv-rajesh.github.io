@@ -1,5 +1,5 @@
 <p style="font-size: 18px">
-  <b> 2021 Bucket List: <a href="/bucket"> Read here</a> </b>
+  <b> ⭐ 2021 Bucket List: <a href="/bucket"> Read here </a> </b>
 </p>
 
 <hr>
