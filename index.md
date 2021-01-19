@@ -1,4 +1,4 @@
-<p style="font-size: 18px"> The Den's Corner </p>
+<p style="font-size: 18px"> Fresh Picks </p>
 
 <table>
   <tr>
