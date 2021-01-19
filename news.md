@@ -1,4 +1,4 @@
-<h1> <b> 2021-01-19: Hits </h1>
+<h1> 2021-01-19: Hits </h1>
 
 <h3> Vitals-Sensing Kiosks on the MIT Campus </h3>
 <p> Ivan Goryachev and Ryan Koeppen, two mechanical engineering students, are developing thermal trailers and vitals-sensing kiosks that are to be deployed around the campus during COVID-19. <a href="https://news.mit.edu/2021/deploying-non-contact-vitals-sensing-kiosks-across-campus-0111"> Read more </a> </p>
