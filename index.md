@@ -12,14 +12,23 @@
 
 <hr>
 
-<p align="center" style="font-size: 18px">
-  <b> Tech Stack </b>
-</p>
-
-<p align="center">
-  <img src="/assets/python_icon.png" width="25" height="25">
-  <img src="/assets/html_icon.png" width="25" height="25">
-  <img src="/assets/css_icon.png" width="25" height="25">
-  <img src="/assets/java_icon.png" width="25" height="25">
-  <img src="/assets/lua_icon.svg" width="25" height="25">
-</p>
+<div content class="projects">
+  <div content>
+    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/Denbot" target="_blank"> Tech Stack </a> </p>
+    <p align="center">
+      <img src="/assets/python_icon.png" width="25" height="25">
+      <img src="/assets/html_icon.png" width="25" height="25">
+      <img src="/assets/css_icon.png" width="25" height="25">
+      <img src="/assets/java_icon.png" width="25" height="25">
+      <img src="/assets/lua_icon.svg" width="25" height="25">
+    </p>
+  </div>
+  <div content>
+    <p style="font-size:18px"> <a href="https://github.com/drv-rajesh/Denbot" target="_blank"> Engineering Stack </a> </p>
+    <p align="center">
+      <img src="/assets/arduino_icon.png" width="25" height="25">
+      <img src="/assets/microbit_icon.png" width="25" height="25">
+      <img src="/assets/rpi_icon.png" width="25" height="25">
+    </p>
+  </div>
+</div>
