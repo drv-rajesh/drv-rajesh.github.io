@@ -1,4 +1,4 @@
-<p style="font-size: 16px"> My Insights Into the Engineering World: </p>
+<p style="font-size: 18px"> Dhruv's Plans </p>
 
 <table>
   <tr>
