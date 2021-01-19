@@ -5,3 +5,26 @@
 <p align="center">
   I aspire to be a Mechatronics Engineer so that my skills in software and hardware can integrate. I can apply software skills to areas such as IOT and hardware interfacing, and my engineering skills to the mechanical component of mechatronics, robotics.
 </p>
+
+<hr>
+
+<div content class="projects">
+  <div content>
+    <p style="font-size:18px"> Tech Stack </p>
+    <p align="center">
+      <img src="/assets/python_icon.png" width="25" height="25">
+      <img src="/assets/html_icon.png" width="25" height="25">
+      <img src="/assets/css_icon.png" width="25" height="25">
+      <img src="/assets/java_icon.png" width="25" height="25">
+      <img src="/assets/lua_icon.svg" width="25" height="25">
+    </p>
+  </div>
+  <div content>
+    <p style="font-size:18px"> Engineering Stack </p>
+    <p align="center">
+      <img src="/assets/arduino_icon.png" width="36" height="25">
+      <img src="/assets/microbit_icon.png" width="50" height="25">
+      <img src="/assets/rpi_icon.png" width="25" height="25">
+    </p>
+  </div>
+</div>
