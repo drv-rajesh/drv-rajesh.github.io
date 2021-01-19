@@ -27,7 +27,7 @@
     <p style="font-size:18px"> Engineering Stack </p>
     <p align="center">
       <img src="/assets/arduino_icon.png" width="33" height="25">
-      <img src="/assets/microbit_icon.png" width="45" height="25">
+      <img src="/assets/microbit_icon.png" width="50" height="25">
       <img src="/assets/rpi_icon.png" width="25" height="25">
     </p>
   </div>
