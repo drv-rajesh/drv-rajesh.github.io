@@ -1,5 +1,4 @@
-<p style="font-size:18px"> MIT Vitals-Sensing Kiosks, Ultrasound "Drills", and more </p>
-<p style="font-size:7px"> 2021-01-19 </p>
+<p style="font-size:22px"> <b> MIT Vitals-Sensing Kiosks, Ultrasound "Drills", and more <b> </p>
 
 <h2> Vitals-Sensing Kiosks on the MIT Campus </h2>
 <p> Ivan Goryachev and Ryan Koeppen, two mechanical engineering students, are developing thermal trailers and vitals-sensing kiosks that are to be deployed around the campus during COVID-19. <a href="https://news.mit.edu/2021/deploying-non-contact-vitals-sensing-kiosks-across-campus-0111"> Read more </a> </p>
