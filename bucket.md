@@ -3,7 +3,7 @@ I utilized the situation in 2020 to my full advantage, and here's how I want to 
 ## Portfolio
 - Finish at least two software portfolio projects (50%)
 - Finish one hardware portfolio project (0%)
-- Get this portfolio website fully spiced up with CSS and finished (responsiveness + content) (60%)
+- Get this portfolio website fully spiced up with CSS and finished (60%)
 
 ## Content
 - Reach 100 subscribers (42%)
