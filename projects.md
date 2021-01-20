@@ -3,7 +3,7 @@
 <div content class="projects">
   <div content>
     <p style="font-size:18px" align="center"> Project: Spherical Droid </p>
-    <p align="center"> <img src="/assets/psd.jpg" width="105" height="100"> </p>
+    <p align="center"> <img src="/assets/psd.jpg" width="85" height="80"> </p>
   </div>
   <div content>
     <p style="font-size:13px"> A compact, maneuverable, and aesthetically pleasing exploration robot. Made for Makezine's YSC (Youth Science Canada) exposition, showcasing various projects from around the globe. </p>
