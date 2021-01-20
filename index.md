@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I aspire to be a Mechatronics Engineer so that my skills in software and hardware can integrate. I can apply software skills to areas such as IOT and hardware interfacing, and my engineering skills to the mechanical component of mechatronics - robotics.
+  I aspire to be a Mechatronics Engineer so that my skills in software and hardware can integrate. I can apply software skills to areas such as IOT and hardware interfacing, and my engineering (both mechanical and hardware) skills to the mechanical component of mechatronics - robotics.
 </p>
 
 <hr>
