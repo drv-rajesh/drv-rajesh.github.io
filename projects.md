@@ -6,7 +6,7 @@
     <img src="/assets/psd.jpg" width="105" height="100">
   </div>
   <div content>
-    <p> Our planet is slowly dying - and new frontiers must be discovered if our race is to survive. Engineers are striving to design robots to navigate extreme terrain and collect data - yet are struggling to make them compact, maneuverable, and aesthetically pleasing. My solution? Say hello to "Project: Spherical Droid" (PSD). </p>
+    <p> A compact, maneuverable, and aesthetically pleasing exploration robot. </p>
   </div>
 </div>
 
