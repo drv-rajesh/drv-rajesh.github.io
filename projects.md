@@ -6,7 +6,7 @@
     <img src="/assets/psd.jpg" width="105" height="100">
   </div>
   <div content>
-    <p> A compact, maneuverable, and aesthetically pleasing exploration robot. </p>
+    <p style="font-size:13px"> A compact, maneuverable, and aesthetically pleasing exploration robot. </p>
   </div>
 </div>
 
