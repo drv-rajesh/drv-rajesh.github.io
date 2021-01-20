@@ -1,11 +1,3 @@
-<p style="font-size: 18px"> Dhruv's Plans </p>
-
-<table>
-  <tr>
-    <td>
-      <b> ⭐ 2021 Bucket List: <a href="/2021"> Read here </a> </b>
-      <br>
-      <b> ⭐ My Weekly Engineering Top News: <a href="/news"> Read here </a> </b>
-    </td>
-  </tr>
-</table>
+<p style="font-size: 18px"> <b> Week's Top Pick </b> </p>
+<img src="/assets/craters.md">
+<p> NASA is using an ML algorithm to detect fresh craters on mars </p>
