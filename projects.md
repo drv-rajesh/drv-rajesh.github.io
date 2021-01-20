@@ -1,5 +1,5 @@
 <h2> Robotics </h2>
-
+<hr>
 <div content class="projects">
   <div content>
     <p style="font-size:18px"> Project: Spherical Droid </p>
