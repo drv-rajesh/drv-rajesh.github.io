@@ -5,6 +5,6 @@
     <p style="font-size:18px"> Denbot </p>
   </div>
   <div content>
-    <p> Test TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest</p>
+    <p> A multipurpose Discord bot created to be a friendly and useful companion. </p>
   </div>
 </div>
