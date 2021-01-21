@@ -33,7 +33,7 @@
 <div content class="projects">
   <div content>
     <p style="font-size:18px" align="center"> The Quarantine Game Series </p>
-    <p align="center"> <img src="/assets/musical.png" width="110" height="80"> </p>
+    <p align="center"> <img src="/assets/games.jpg" width="123" height="80"> </p>
   </div>
   <div content>
     <p style="font-size:13px"> In order to develop my programming skills, I decided to take up three games to work on over quarantine - being Snake, a ball physics simulator, and Space Invaders. </p>
