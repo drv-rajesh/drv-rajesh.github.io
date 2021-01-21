@@ -1,4 +1,4 @@
-<p style="font-size:18px"> ⭐ Read my 2021 Bucket List <a href="/recents/2021"> here </a> and other recents <a href="/recents/all"> here </a> </p>
+<p style="font-size:18px"> ⭐ Read my 2021 Bucket List and other recents <a href="/recents/all"> here </a> </p>
 
 <hr>
 
