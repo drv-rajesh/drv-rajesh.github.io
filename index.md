@@ -1,3 +1,7 @@
+<p> ⭐ Read my 2021 Bucket List <a href="/2021"> here </a> </p>
+
+<hr>
+
 <h2 align="center"> About Me </h2>
 <p align="center">
   I know plenty a fact - apparently the largest countable number is a googolplex, and your brain's fusiform gyrus is used for facial recognition - and I love reading stacks of quotes - "Technology is a useful servant but a dangerous master" or "The way I see it, if you want the rainbow, you gotta put up with the rain" - but most importantly, I am a full-stack developer and engineer who loves learning something new everyday.
