@@ -2,6 +2,11 @@
 
 <hr>
 
+<h1> 2021 Bucket List </h1>
+<p> I utilized the situation in 2020 to my full advantage, and here's how I want to continue staying productive. Feel free to use certain categories as templates for generating your own bucket list! <a href="/2021"> Read more </a> </p>
+
+<hr>
+
 <h1> Week of 2021-01-18 </h1>
 
 <h3> Vitals-Sensing Kiosks on the MIT Campus </h3>
