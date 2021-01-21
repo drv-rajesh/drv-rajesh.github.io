@@ -1,9 +1,4 @@
-<p> Each week, I publish a collation of my favourite new developments from the engineering, science, and technology fields. I also occasionally publish a special article (e.x. my 2021 bucket list). </p>
-
-<hr>
-
-<h1> 2021 Bucket List </h1>
-<p> I utilized the situation in 2020 to my full advantage, and here's how I want to continue staying productive. Feel free to use certain categories as templates for generating your own bucket list! <a href="/2021"> Read more </a> </p>
+<p> Each week, I publish a collation of my favourite new developments from the engineering, science, and technology fields. </p>
 
 <hr>
 
