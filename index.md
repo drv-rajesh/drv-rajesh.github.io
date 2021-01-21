@@ -22,7 +22,7 @@
     </p>
   </div>
   <div content>
-    <p style="font-size:18px" align="center"> Engineering Stack </p>
+    <p style="font-size:18px" align="center"> Robotics Stack </p>
     <p align="center">
       <img src="/assets/arduino_icon.png" width="36" height="25">
       <img src="/assets/microbit_icon.png" width="50" height="25">
