@@ -1,3 +1,5 @@
+<p> Each week, I publish a collation of my favourite new developments from the engineering, science, and technology fields. I also occasionally publish a special article (e.x. my 2021 bucket list). </p>
+
 <hr>
 
 <h1> Week of 2021-01-18 </h1>
