@@ -21,3 +21,21 @@
 
 <h2> Software </h2>
 <hr>
+<div content class="projects">
+  <div content>
+    <p style="font-size:18px" align="center"> Denbot </p>
+    <p align="center"> <img src="https://raw.githubusercontent.com/drv-rajesh/drv-rajesh/main/logo.png" width="80" height="80"> </p>
+  </div>
+  <div content>
+    <p style="font-size:13px"> A Discord bot that uses a crucial skill for hardware projects - IOT data collection; it collects weather, location, and more data that could be used in a future hardware project. Aside from those, it also has multipurpose use. </p>
+  </div>
+</div>
+<div content class="projects">
+  <div content>
+    <p style="font-size:18px" align="center"> The Quarantine Game Series </p>
+    <p align="center"> <img src="/assets/musical.png" width="110" height="80"> </p>
+  </div>
+  <div content>
+    <p style="font-size:13px"> In order to develop my programming skills, I decided to take up three games to work on over quarantine - being Snake, a ball physics simulator, and Space Invaders. </p>
+  </div>
+</div>
