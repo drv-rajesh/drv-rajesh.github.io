@@ -30,3 +30,13 @@
     </p>
   </div>
 </div>
+
+<hr>
+
+<h2 align="center"> Connect with Me </h2>
+<p align="center">
+  <img src="/assets/email_icon.png" width="25" height="25">
+  <img src="/assets/youtube_icon.png" width="25" height="25">
+  <img src="/assets/discord_icon.png" width="25" height="25">
+  <img src="/assets/hashnode_icon.png" width="25" height="25">
+</p>
