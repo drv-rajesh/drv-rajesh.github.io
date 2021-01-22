@@ -3,6 +3,7 @@
 <hr>
 
 <h3> Announcing Weekly News! </h3>
+<p> Each week, I publish a collation of my favourite new developments from the engineering, science, and technology fields. <a href="/news"> Read more </a> </p>
 
 <h3> 2021 Bucket List </h3>
 <p> I utilized the situation in 2020 to my full advantage, and here's how I want to continue staying productive. Feel free to use certain categories as templates for generating your own bucket list! <a href="/recents/2021"> Read more </a> </p>
