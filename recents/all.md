@@ -1,1 +1,1 @@
-
+<p> Recents are developments that I do not want to publicly announce on my blog - ranging from personal goals such as the yearly bucket list to more abstract developments such as new opportunities that I found useful to my journey. </p>
