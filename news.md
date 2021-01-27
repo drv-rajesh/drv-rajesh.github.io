@@ -1,5 +1,16 @@
 <p> Each week, I publish a collation of my favourite new developments from the engineering, science, and technology fields. </p>
 
+<h1> Week of 2021-01-25 </h1>
+
+<h3> Two Patients, Single Ventilator </h3>
+<p> An open-source diagram was released to help doctors safely ventilate two COVID patients with a single ventilator, utilzing current resistance as a basis. <a href="https://scitechdaily.com/open-source-model-created-to-help-clinicians-safely-ventilate-two-covid-19-patients-with-a-single-ventilator/"> Read more </a> </p>
+
+<h3> Art AI Has a Potential Use in Autonomous Vehicles </h3>
+<p> OpenAI created a program to generate random art that doesn't exist - however the algorithm it uses, CLIP (based on a NN), can be used for image recognition in self-driving cars. <a href="https://www.wired.com/story/ai-go-art-steering-self-driving-car/"> Read more </a> </p>
+
+<h3> The Truth About Weighted Blankets </h3>
+<p> Weighted blankets, a simple stress reliever, is put to the test in three different ways. <a href="https://www.popsci.com/story/science/weighted-blankets-anxiety/"> Read more </a> </p>
+
 <hr>
 
 <h1> Week of 2021-01-18 </h1>
