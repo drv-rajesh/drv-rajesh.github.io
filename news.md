@@ -1,5 +1,7 @@
 <p> Each week, I publish a collation of my favourite new developments from the engineering, science, and technology fields. </p>
 
+<hr>
+
 <h1> Week of 2021-01-25 </h1>
 
 <h3> Two Patients, Single Ventilator </h3>
