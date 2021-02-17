@@ -1,1 +1,1 @@
-
+It's officially been a year since I created my YouTube channel, and its progressed so much - I've reached 50 subscribers and over 2,000 video views. To commemorate this success, I'm releasing an official documentary memoir of my maker journey from when I started 5 years ago.
