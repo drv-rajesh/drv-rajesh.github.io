@@ -1,7 +1,3 @@
-<p align="center"> <blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">My YouTube channel is almost at 50 subscribers (which is INSANE). Subscribe here and support me on my journey to inspire others - it would mean the WORLD :)<a href="https://twitter.com/hashtag/inspire?src=hash&amp;ref_src=twsrc%5Etfw">#inspire</a> <a href="https://twitter.com/hashtag/engineering?src=hash&amp;ref_src=twsrc%5Etfw">#engineering</a> <a href="https://twitter.com/hashtag/devslife?src=hash&amp;ref_src=twsrc%5Etfw">#devslife</a><a href="https://t.co/ddJHEQHzI3">https://t.co/ddJHEQHzI3</a></p>&mdash; Dhruv Rajesh (@DhruvDev98) <a href="https://twitter.com/DhruvDev98/status/1358538996717125634?ref_src=twsrc%5Etfw">February 7, 2021</a></blockquote> </p>
-
-<hr>
-
 <h2 align="center"> About Me </h2>
 <p align="center">
   I know plenty a fact - apparently the largest countable number is a googolplex, and your brain's fusiform gyrus is used for facial recognition - and I love reading stacks of quotes - "Technology is a useful servant but a dangerous master" or "The way I see it, if you want the rainbow, you gotta put up with the rain" - but most importantly, I am a full-stack developer and engineer who loves learning something new everyday.
