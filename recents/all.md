@@ -2,6 +2,9 @@
 
 <hr>
 
+<h3> Here's to a Year </h3>
+<p> It's officially been a year since I created my YouTube channel, and its progressed so much - I've reached 50 subscribers and over 2,000 video views. To commemorate this success, I'm releasing an official documentary memoir... <a href="/recents/documentary"> Read more </a> </p>
+
 <h3> Weekly STEM News </h3>
 <p> Each week, I publish a collation of my favourite new developments from the engineering, science, and technology fields. <a href="/news"> Read more </a> </p>
 
